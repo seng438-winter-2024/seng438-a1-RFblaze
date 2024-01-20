@@ -4,10 +4,10 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Student 1 Beljic, Stevan                |   
+| Student 2 Brahmbhatt, Rutvi              |   
+| Student 3 Giang, Aaron               |   
+| Student 4 Troncone, Angelo                |   
 
 
 **Table of Contents**
