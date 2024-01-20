@@ -33,15 +33,13 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
-The purpose of the lab is to go through the 4 main sections:
-    - Familiarizing ourselves with the system under test and defect tracking system
-    - Exploratory testing
-    - Manual scripted testing
-    - Regression testing (upon different versions of the SUT)
-Firstly, we familiarize ourselves with the system (ATM simulation) as well as the defect tracking system. Afterwards comes exploratory testing in which we can test the system in whichever way we deem fit. Manual scripted testing follows, where we perform tests on the SUT following a predefined test suite. Finally, we perform regression testing by testing the new udpdated version of the ATM simulator and then compare the differing system behaviour and document it in the defect tracking system.
-
+The purpose of the lab is to go through the 4 main sections:  
+    - Familiarizing ourselves with the system under test and defect tracking system  
+    - Exploratory testing  
+    - Manual scripted testing  
+    - Regression testing (upon different versions of the SUT)  
+Firstly, we familiarize ourselves with the system (ATM simulation) as well as the defect tracking system. Afterwards comes exploratory testing in which we can test the system in whichever way we deem fit. Manual scripted testing follows, where we perform tests on the SUT following a predefined test suite. Finally, we perform regression testing by testing the new udpdated version of the ATM simulator and then compare the differing system behaviour and document it in the defect tracking system.  
+  
 We had fairly little formal, applied knowledge and experience of testing and its various methods before this lab. We have had some experience in exploratory and regression testing, however it was fairly informal and we did not perform defect tracking in a disciplined manner.
 
 # High-level description of the exploratory testing plan
