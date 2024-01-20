@@ -44,7 +44,12 @@ We had fairly little formal, applied knowledge and experience of testing and its
 
 # High-level description of the exploratory testing plan
 
-Text…
+Stevan & Rutvi:  
+We gotta put our stuff here  
+
+Aaron & Angerlo:  
+Put more stuff here  
+
 
 # Comparison of exploratory and manual functional testing
 
