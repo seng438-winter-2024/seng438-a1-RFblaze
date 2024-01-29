@@ -45,9 +45,12 @@ We had fairly little formal, applied knowledge and experience of testing and its
 # High-level description of the exploratory testing plan
 
 **Stevan & Rutvi**
+
 Our exploratory testing plan is to simulate the interactions of users with the ATM system V1.0 in the 4 main task flows: deposits, withdrawls, transfers, and balance inquiries, as outlined in Appendix B. We believe this plan is a good blend between freely exploring the SUT while also following a plan to at least cover the main functions/uses for the average user of the system.
 
+
 While the inputs for each execution of a task-flow will be random, the actions taken (buttons clicked, user-flow executed) are not as we delibaretly wish to extensively test each of the main user-flows. Each of us will perform 2 executions of each user flow (8 total executions per person, 16 total in pair), giving us a deep look into the functionality of the SUT and helping us find any glaring issues quite easily. Our primary desire with this in-depth exploratory testing plan is to cover a wide range of potential user inputs, such as the amount of moving in/out the system or the account being accessed, through random inputs while strictly following the user task flows and ensuring all main user functions can be accomplished, or at least understand wherein the issues lie.
+
 
 Our plan is to have one of us perform (the executor) the task flow, while the other (the recorder) documents all user inputs and ensuring the executor is adhereing to the initially outlined plan. The recorder will also note any irregularities/abnormalities to the percieved output of the system, and will note the location, actual output, and expected output of the error. Upon two completions of each task flow, we will swap roles.
 
