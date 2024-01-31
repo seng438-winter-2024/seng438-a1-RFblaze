@@ -77,6 +77,7 @@ Text…
 # Comments/feedback on the lab and lab document itself
 
 **Stevan**
+
 The lab was a good introduction to the disciplined process of testing (and the multiple methods it may take on) and how to properly report bugs within a bug-tracking system. The processes of exploratory testing, manual scripted testing, and regression testing were simple enough to understand and perform on the ATM system. The largest challenge with this lab was learning how to effectively use the bug-tracking system (Azure Devops). There was a significant learning curve to learning how to use the platform. Furthermore, the requirments of the lab report were somewhat vague and it was challenging to understand what to write about in each section of the report.
 
 **Rutvi**
