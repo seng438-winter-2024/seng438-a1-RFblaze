@@ -54,8 +54,8 @@ While the inputs for each execution of a task-flow will be random, the actions t
 
 Our plan is to have one of us perform (the executor) the task flow, while the other (the recorder) documents all user inputs and ensuring the executor is adhereing to the initially outlined plan. The recorder will also note any irregularities/abnormalities to the percieved output of the system, and will note the location, actual output, and expected output of the error. Upon two completions of each task flow, we will swap roles.
 
-Aaron & Angerlo:  
-Put more stuff here  
+Aaron & Angelo:  
+For our exploratory testing, we first began testing the 4 main transactions of the ATM System Version 1.0 by providing a valid credit card number and PIN, and valid values. This was to familiarize ourselves before doing more extensive testing. We unexpectedly noticed a few minor bugs, and bugs that were the most likely to be discovered through regular use. Our main goal wasn't necesarily to find bugs at this point, but just understand the system were supposed to analyze. Once we understood the functionality of the program, we then began to test boundary values and trying to break the program. This was when we started to find edge cases and uncommon bugs that wouldn't normally be discovered. We each were testing independently and reported back to each other what we found.
 
 
 # Comparison of exploratory and manual functional testing
