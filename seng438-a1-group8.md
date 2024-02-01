@@ -63,7 +63,21 @@ For our exploratory testing, we first began testing the 4 main transactions of t
 
 # Comparison of exploratory and manual functional testing
 
+Exploratory testing was conducted in two pairs and was done in an unscripted manner. A general testing plan was made by each pair to determine how to proceed through testing the software, however no strict script was followed. Tests were generally conducted by just interacting with the software and trying out various inputs within the confines of the general testing plan.
 
+Comparatively, the manual scripted testing was much more rigid in execution and had specific steps which had to be undertaken. Manual scripted testing involves following a script of test cases to provide the software specific inputs and task-flows, and then examining the output of the system on those test cases compared to the expectd output.
+
+We found the benefits of exploratory testing to be:
+- Provides a greater range of data on system behaviour on slightly varied inputs
+- Develops greater understanding of the function of the SUT
+- Less rigid nature allows for more creative test cases
+- Allowed for quicker discovery of bugs as documentation was only necessary when something abnormal happened
+
+We found the benefits of manual scripted testing to be:
+- Better suited for regression testing as tests could be easily replicated
+- Bugs are more easily reproduced as steps to generate each bug are explicitly outlined in the script
+
+While we found both methods to be very useful in uncovering bugs in the system, we found exploratory testing to overall be more effective and useful in uncovering bugs. Not only did exploratory testing help us to further understand the inner-workings of the SUT, but it also lead to more creative test cases in which we tried out various inputs to see what worked and what didn't. A lot of the bugs produced in manual scripted testing had already been discovered through exploratory testing. Still, it was beneficial to undertake both test methods as manual scripted testing improved our documentation and the reproducibility of previously discovered bugs.
 
 # Notes and discussion of the peer reviews of defect reports
 
