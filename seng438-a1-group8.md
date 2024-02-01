@@ -120,7 +120,7 @@ stuff here
 
 ### Aaron
 
-stuff here
+The lab was very helpful in learning exploratory, manual scripted, and regression testing. Having a simulation program like the ATM system was a practical environment to apply these testing methods. The pair programming for the exploratory testing was effective in finding a wide range of scenarios and bugs. The manual scripted testing was nice to go through the program and test each feature individually systematically. Learning how to use Azure DevOps was one of the challenges but will be useful when we enter the industry. I found the Instructions were mostly clear and straightforward.
 
 ### Angelo
 
