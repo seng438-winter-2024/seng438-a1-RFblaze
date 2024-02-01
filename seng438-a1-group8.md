@@ -81,7 +81,14 @@ While we found both methods to be very useful in uncovering bugs in the system, 
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Our team ensured that all key elements in bug reports were included, such as the function being tested, initial system state, detailed steps to reproduce, and expected versus actual outcomes.
+Our exploratory test plan was well-documented, covering all major targeted functions of version 1.0, testing approach with pairing up in a team, and paths to be explored.
+Defects were recorded promptly during exploratory testing by both the pairs having detailed conditions were combined.
+We played as a team during manual scripted testing, with one student driving, the other one tracking tests and the rest two, reporting defects and maintaining the document.
+The division of defects for retesting in the regression phase (10 for each)  was well-coordinated among team members.
+We concluded the result by reviewing our defects report that, out of 5 major bugs that were detected during manual scripted testing, 1 got resolved by doing regression testing.
+
+
 
 # How the pair testing was managed and team work/effort was divided 
 ### Pair Testing
@@ -116,7 +123,11 @@ The lab was a good introduction to the disciplined process of testing (and the m
 
 ### Rutvi
 
-stuff here
+The key elements for bug reports are well articulated in the lab document, covering essential aspects such as the function being tested, initial system state, steps to reproduce, expected and actual outcomes.
+The recommendation to create a high-level exploratory test plan is excellent. It encourages thoughtful testing and planning, promoting efficiency.
+The usage of a basic test suites of Manual scripted testing in Appendix C adds structure to the testing process. Executing each test case at least once ensures comprehensive coverage.
+The emphasis on updating defect status and commenting on the status change in Regression testing provides transparency and clarity in tracking defect resolutions.
+Overall, the lab offers a methodical and organized way to acquire efficient approaches for reporting bugs and conducting tests.
 
 ### Aaron
 
