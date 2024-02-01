@@ -80,7 +80,7 @@ Each pair had its own method of pair testing, but we followed the same principle
 
 **Manual Scripted Testing**
 
-Manual scripted testing was performed together as a group. We met up in a workroom and had Aaron share his screen while one of us guided him though the tests, and the other would record the results of the tests in a shared document. After finishing up the testing and initial recording, we input the recorded data into a Devops project. After we performed all fourty test cases together and then divided them up into four even groupings and assigned them to each person to perform regression testing. After we performed our regression testing, we each updated the work items assigned to use in Devops to reflect the new behvaiour of the test cases in version 1.1 of the ATM.
+Manual scripted testing was performed together as a group. We met up in a workroom and had Angelo share his screen while one of us guided him though the tests, and the other would record the results of the tests in a shared document. After finishing up the testing and initial recording, we input the recorded data into a Devops project. After we performed all fourty test cases together and then divided them up into four even groupings and assigned them to each person to perform regression testing. After we performed our regression testing, we each updated the work items assigned to use in Devops to reflect the new behvaiour of the test cases in version 1.1 of the ATM.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
