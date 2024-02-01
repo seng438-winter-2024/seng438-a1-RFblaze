@@ -46,7 +46,7 @@ We had fairly little formal, applied knowledge and experience of testing and its
 
 # High-level description of the exploratory testing plan
 
-**Stevan & Rutvi**
+## Stevan & Rutvi
 
 Our exploratory testing plan is to simulate the interactions of users with the ATM system V1.0 in the 4 main task flows: deposits, withdrawls, transfers, and balance inquiries, as outlined in Appendix B. We believe this plan is a good blend between freely exploring the SUT while also following a plan to at least cover the main functions/uses for the average user of the system.
 
@@ -56,7 +56,7 @@ While the inputs for each execution of a task-flow will be random, the actions t
 
 Our plan is to have one of us perform (the executor) the task flow, while the other (the recorder) documents all user inputs and ensuring the executor is adhereing to the initially outlined plan. The recorder will also note any irregularities/abnormalities to the percieved output of the system, and will note the location, actual output, and expected output of the error. Upon two completions of each task flow, we will swap roles.
 
-**Aaron & Angelo**
+## Aaron & Angelo
 
 For our exploratory testing, we first began testing the 4 main transactions of the ATM System Version 1.0 by providing a valid credit card number and PIN, and valid values. This was to familiarize ourselves before doing more extensive testing. We unexpectedly noticed a few minor bugs, and bugs that were the most likely to be discovered through regular use. Our main goal wasn't necesarily to find bugs at this point, but just understand the system were supposed to analyze. Once we understood the functionality of the program, we then began to test boundary values and trying to break the program. This was when we started to find edge cases and uncommon bugs that wouldn't normally be discovered. We each were testing independently and reported back to each other what we found.
 
@@ -70,7 +70,7 @@ For our exploratory testing, we first began testing the 4 main transactions of t
 Text…
 
 # How the pair testing was managed and team work/effort was divided 
-**Pair Testing**
+## Pair Testing
 
 To conduct pair testing, we split ourselves up into two even pairs:
 - Stevan & Rutvi
@@ -78,7 +78,7 @@ To conduct pair testing, we split ourselves up into two even pairs:
 
 Each pair had its own method of pair testing, but we followed the same principle as outlined in the assignment description, in which the executor would run exploratory tests on the software while the recorder would document the results in a document (wherefrom the data was input into Devops later). After an ample number of tests/use-cases were covered, we swapped roles and performed slightly different tests.
 
-**Manual Scripted Testing**
+## Manual Scripted Testing
 
 Manual scripted testing was performed together as a group. We met up in a workroom and had Angelo share his screen while one of us guided him though the tests, and the other would record the results of the tests in a shared document. After finishing up the testing and initial recording, we input the recorded data into a Devops project. After we performed all fourty test cases together and then divided them up into four even groupings and assigned them to each person to perform regression testing. After we performed our regression testing, we each updated the work items assigned to use in Devops to reflect the new behvaiour of the test cases in version 1.1 of the ATM.
 
@@ -96,18 +96,18 @@ Some of the lessons we learned were:
 
 # Comments/feedback on the lab and lab document itself
 
-**Stevan**
+## Stevan
 
 The lab was a good introduction to the disciplined process of testing (and the multiple methods it may take on) and how to properly report bugs within a bug-tracking system. The processes of exploratory testing, manual scripted testing, and regression testing were simple enough to understand and perform on the ATM system. The largest challenge with this lab was learning how to effectively use the bug-tracking system (Azure Devops), a few better resources would've been helpful. There was a significant learning curve to learning how to use the platform. Furthermore, the requirments of the lab report were somewhat vague and it was challenging to understand what to write about in each section of the report. The process of testing itself was well-outlined and described, and we did not have issues conducting and recording tests.
 
-**Rutvi**
+## Rutvi
 
 stuff here
 
-**Aaron**
+## Aaron
 
 stuff here
 
-**Angelo**
+## Angelo
 
 stuff here
