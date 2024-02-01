@@ -141,4 +141,4 @@ The lab was very helpful in learning exploratory, manual scripted, and regressio
 
 ### Angelo
 
-stuff here
+The lab provides a good introduction to exploratory, manual scripted, and regression testing, aswell as good practical experience to apply these techniques. It also showcased the strengths and weaknesses of the different types of testing, through which bugs were purposefully included in the SUT; some being only able to discovered during exploratory testing because there were no test cases that dealt with them. The Test Suite and SUTs being provided was very helpful, as it enabled us to only focus on learning about testing and not get sidetracked with programing. One criticism I have about the lab document was that I found the definition of exploratory testing a bit unclear as to how it is different to manual scripted testing. I would have liked to get more clear definitions and expectations when it came to that part of the lab. Overall, the lab instructions and expectations were easy to understand.
