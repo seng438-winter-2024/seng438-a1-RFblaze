@@ -86,7 +86,7 @@ Our exploratory test plan was well-documented, covering all major targeted funct
 Defects were recorded promptly during exploratory testing by both the pairs having detailed conditions were combined.
 We played as a team during manual scripted testing, with one student driving, the other one tracking tests and the rest two, reporting defects and maintaining the document.
 The division of defects for retesting in the regression phase (10 for each)  was well-coordinated among team members.
-We concluded the result by reviewing our defects report that, out of 5 major bugs that were detected during manual scripted testing, 1 got resolved by doing regression testing.
+We concluded the result by reviewing our defects report that, out of 5 major bugs that were detected during manual scripted testing, 2 got resolved by doing regression testing.
 
 
 
