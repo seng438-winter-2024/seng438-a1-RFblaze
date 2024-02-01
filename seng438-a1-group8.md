@@ -58,7 +58,13 @@ Our plan is to have one of us perform (the executor) the task flow, while the ot
 
 ### Aaron & Angelo
 
-For our exploratory testing, we first began testing the 4 main transactions of the ATM System Version 1.0 by providing a valid credit card number and PIN, and valid values. This was to familiarize ourselves before doing more extensive testing. We unexpectedly noticed a few minor bugs, and bugs that were the most likely to be discovered through regular use. Our main goal wasn't necesarily to find bugs at this point, but just understand the system were supposed to analyze. Once we understood the functionality of the program, we then began to test boundary values and trying to break the program. This was when we started to find edge cases and uncommon bugs that wouldn't normally be discovered. We each were testing independently and reported back to each other what we found.
+For our exploratory testing, we decided to begin by briefly laying out every aspect and function of the program that was described in the lab document and ranked each based on levels of severity and fault tolerance. This allowed us to get a brief idea about how much we should test each function.
+
+
+We then began testing the 4 main transactions of the ATM System Version 1.0 by providing a valid credit card number and PIN, and valid values. This was to familiarize ourselves with the system before beginning more extensive testing. We unexpectedly noticed a few minor bugs; bugs that were the most likely to be discovered through regular use. We used plausible values and abstained from trying to use boundary values and doing robustness testing, thus, allowing us to immediately identify flaws in functionality without much time and effort being invested.
+
+
+Our main goal wasn't necesarily to find bugs at this point, but just understand the system were supposed to analyze. Once we understood the functionality of the program, and found bugs through our mundane use with reasonable values, we began to test boundary values and trying to break the program. This was when we started to find edge cases and uncommon bugs that wouldn't normally be discovered. We each were testing independently and reported back to each other what we found. We logged our findings in a shared text document as we were not familiar with Jira or Azure DevOps at the time we started exploratory testing.
 
 
 # Comparison of exploratory and manual functional testing
