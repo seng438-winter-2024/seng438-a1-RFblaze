@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 8      |
 |-----------------|
 | Beljic, Stevan                |   
 | Brahmbhatt, Rutvi              |   
